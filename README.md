@@ -7,6 +7,9 @@ Flash floods overwhelm urban drainage faster than civil-protection units can rea
 current municipal warning systems are reactive. HydroAgent 3D gives municipal
 civil-protection and disaster-management units a predictive, agentic early-warning engine.
 
+📋 **Full technical plan:** [PROJECT_PLAN.md](PROJECT_PLAN.md) — 
+architecture, data strategy, validation protocol, execution roadmap, and verified references.
+
 ## How it works
 
 - **Predict** — a physics-informed graph-neural-network surrogate (NVIDIA PhysicsNeMo,
